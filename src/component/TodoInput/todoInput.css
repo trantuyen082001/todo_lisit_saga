@@ -1,0 +1,34 @@
+.todoInput_container {
+    margin-bottom: 10px;
+}
+
+.todoInput_container h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    font-weight: 300;
+    color: #fff;
+}
+
+.input_todo,
+.todo_input {
+    height: 40px;
+    width: 283px;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 17px;
+    margin: 10px;
+}
+
+.btn_todo {
+    height: 32px;
+    padding: 6px 14px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn_todo:hover {
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
+}
